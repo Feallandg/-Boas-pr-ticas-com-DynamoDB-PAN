@@ -1,7 +1,6 @@
 # Projeto Boas práticas com DynamoDB
 
-Projeto realizado no Bootcamp Geração Tech Unimed-BH - Ciência de Dados pela Digital Innovation One - Instrutor 
-Cassiano Peres
+Projeto realizado no Bootcamp Banco Pan - Digital Innovation One
 
 ## Descrição
 Features Relacionais (SQL) e Não Relacionais (NoSQL) usando o mesmo banco de dados? Isso é possível? Com o DynamoDB sim! Entenda um pouco das possibilidades desse banco de dados totalmente gerenciado da AWS. Para isso, nosso super expert apresenta uma série de boas práticas para o DynamoDB.
